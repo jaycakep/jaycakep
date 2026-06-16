@@ -21,7 +21,7 @@ The through-line in both: **every technical decision carries a business conseque
 
 These aren't tutorial projects. They're documented architectures from real systems I designed and built — including the edge cases, the constraints, and the decisions that didn't make it into the happy path.
 
-### 🪦 [Cemetery &amp; Crematorium Management System](./cemetery-management-system-architecture)
+### 🪦 [Cemetery &amp; Crematorium Management System](jaycakep/cemetery-management-system-architecture)
 
 > *Surabaya City Government · 2019 · PHP · CodeIgniter · MariaDB*
 
@@ -31,7 +31,7 @@ A municipal cemetery data system abandoned by its original developer — critica
 
 ---
 
-### 🏪 [POS &amp; Cooperative Management System](./kopkar-pos-cooperative-system)
+### 🏪 [POS &amp; Cooperative Management System](jaycakep/kopkar-pos-cooperative-system)
 
 > *Koperasi Pegawai RSI Jemursari · Built 2013–2016 · Rescued 2019 · PHP · MySQL*
 
@@ -43,7 +43,7 @@ A full retail POS and cooperative management system serving 1,000+ hospital staf
 
 ---
 
-### 🏭 [Manufacturing Resource Planning System](./bukit-baja-mrp-system)
+### 🏭 [Manufacturing Resource Planning System](jaycakep/bukit-baja-mrp-system)
 
 > *Bukit Baja Anugrah Steel Pipe Manufacturer · 2013–2016 · PHP · MySQL · 70+ Tables*
 
