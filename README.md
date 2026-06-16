@@ -56,7 +56,7 @@ A full MRP system for a 24-hour, 3-shift steel pipe manufacturer — covering or
 ## 🛠️ Technical Depth
 
 ```
-Languages       C++ · PHP · JavaScript · TypeScript · Node.js · Java · SQL
+Languages       C++ · PHP · JavaScript · TypeScript · Node.js · Java · SQL · .NET
 Databases       MySQL · MariaDB · PostgreSQL · Microsoft SQL Server · MongoDB
 Architecture    ERP · MRP · Legacy Modernization · Distributed Systems
 DevOps          Docker · Kubernetes · CI/CD · AWS · GCP · Azure
