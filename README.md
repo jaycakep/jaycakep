@@ -53,6 +53,28 @@ A full MRP system for a 24-hour, 3-shift steel pipe manufacturer — covering or
 
 ---
 
+## 🔨 Side Projects
+
+Not every project is for a client. Some I build because I need the tool myself.
+
+### ⏰ [TimeKeep — Native Windows Alarm & Timer Manager](https://github.com/username/TimeKeep)
+> *C++ · Win32 API · Zero Dependencies*
+
+I needed to run multiple labeled timers at once and got tired of juggling separate windows with no way to tell which timer was which. So I built my own — native C++, ~600KB executable, under 10MB RAM, no runtime dependencies, instant launch.
+
+It's a small project, but it reflects the same philosophy behind everything else here: **use only the resources the problem actually requires.** No Electron, no framework overhead — just a focused tool that does one thing efficiently.
+
+---
+
+### 🧩 [J PHP Framework — Minimal Backend Framework](https://github.com/jaycakep/jphpfw)
+> *PHP · RedBeanPHP · In use since 2013 · Documented & modernized 2025*
+
+After years of working with PHP frameworks bloated with features I rarely touched, I built a minimal framework of my own — routing, a lightweight template system, execution-time profiling, and database access via RedBeanPHP instead of a heavier ORM.
+
+I've used this framework across client engagements since 2013, refining it along the way. It wasn't until last year that I finally documented it properly, updated RedBeanPHP and every other dependency to their latest versions, and verified compatibility with current PHP — turning over a decade of informal internal tooling into something properly maintained and shareable.
+
+---
+
 ## 🛠️ Technical Depth
 
 ```
